@@ -1,4 +1,3 @@
-layout_spectrum: 0.9673555828630924
 typography_spectrum: 0.47608854225836694
 color:
   brandStrength: 0.8842979241162539
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.9673555828630924
 name: F$&K UP Camp
 title: Fcuk Up Camp
+description: We screwed up so you don't have to
